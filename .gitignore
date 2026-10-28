@@ -1,0 +1,15 @@
+node_modules/
+.data/
+dist/
+build/
+.env
+.env.local
+*.log
+
+# Exclude poster and report files as requested
+POSTER.html
+POSTER.md
+REPORT.html
+REPORT.md
+DOCS_README.md
+*.pptx
